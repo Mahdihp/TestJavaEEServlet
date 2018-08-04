@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(220, 234, 235);
+    font-family: "IRANSans";
+    margin: 5%;
+    stroke: black;
+    float :contour;
+}
+#title {
+    margin-bottom: 30px;
+    font-family: "IRANSans";
+    font-size: 30px;
+    /* text-shadow: 10px 10px 50px blue; */
+}
